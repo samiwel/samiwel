@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Other accounts:
+
+- [samiwelthomasHO](https://github.com/samiwelthomasHO)
+- [samiwel-aa](https://github.com/samiwel-aa)
+
 <!--
 **samiwel/samiwel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
