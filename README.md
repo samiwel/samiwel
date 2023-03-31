@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Other accounts:
+If my contribution counts look a little low, it's because I use other accounts at work.
 
 - [samiwelthomasHO](https://github.com/samiwelthomasHO)
 - [samiwel-aa](https://github.com/samiwel-aa)
